@@ -9,7 +9,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 
 𝐄𝐦𝐚𝐢𝐥 : **sdivyanshu352@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanu1402&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu9794&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
 <!--
 **Divyanshu9794/Divyanshu9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
