@@ -9,7 +9,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 
 𝐄𝐦𝐚𝐢𝐥 : **sdivyanshu352@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu9794&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
+
 <!--
 **Divyanshu9794/Divyanshu9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Divyanshu9794&theme=dark)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyanshu9794&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
