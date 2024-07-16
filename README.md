@@ -35,7 +35,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 ### Coding Platforms
 <p align="left">
-<a href="https://leetcode.com/Divyanshu_singh_cs/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s" width="32" height="32" /></a>
+<a href="https://leetcode.com/u/sdivyanshu5561/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s" width="32" height="32" /></a>
   
 </p>
 
