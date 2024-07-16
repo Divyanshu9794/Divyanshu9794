@@ -28,9 +28,18 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 ### Socials
 
-
+<p align="left">
   <a href="https://www.linkedin.com/in/divyanshu-singh-3b433119b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+
+### Coding Platforms
+<p align="left">
+<a href="https://leetcode.com/Divyanshu_singh_cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" /></a>
+  
+</p>
+
+
 
 <!--
 **Divyanshu9794/Divyanshu9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
