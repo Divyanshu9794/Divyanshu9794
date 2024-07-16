@@ -28,11 +28,8 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://discord.com/users/radhika#0808" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/radhikatandon02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/mysideexplore" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/radhika-tandon-b12549213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+  <a href="[https://www.linkedin.com/in/https://www.linkedin.com/in/radhika-tandon-b12549213](https://www.linkedin.com/in/divyanshu-singh-3b433119b/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 <!--
