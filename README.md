@@ -9,6 +9,14 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 
 𝐄𝐦𝐚𝐢𝐥 : **sdivyanshu352@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanu1402&label=Profile%20views&color=0e75b6&style=flat" alt="dhanu1402" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanu1402" alt="dhanu1402" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dhanu0208" target="blank"><img src="https://img.shields.io/twitter/follow/dhanu0208?logo=twitter&style=for-the-badge" alt="dhanu0208" /></a> </p>
+
 
 ### Skills
 
