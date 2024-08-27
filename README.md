@@ -57,7 +57,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 
 ## LEETCODE STATS
-![Leetcode Stats](https://leetcard.jacoblin.cool/sdivyanshu5561?ext=contest?)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sdivyanshu5561?ext=contest)
 
 
 
