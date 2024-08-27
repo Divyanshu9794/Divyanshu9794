@@ -41,12 +41,6 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 </p>
 
 
-### Coding Platforms
-<p align="left">
-<a href="https://leetcode.com/u/sdivyanshu5561/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvhFQX5MMDl81fsQPbYdEnsO0g8d6QWdjQ5g&s" width="32" height="32" /></a>
-<a href="https://www.geeksforgeeks.org/user/divyanshu_singh2612/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:799/0*ilw552fVUGbwIzbE.jpg" width="32" height="32" /></a>
-  
-</p>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
