@@ -54,9 +54,11 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
   
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+
+## LEETCODE STATS
+![Leetcode Stats](https://leetcode.com/u/sdivyanshu5561/)
+
 
 <!--
 **Divyanshu9794/Divyanshu9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
