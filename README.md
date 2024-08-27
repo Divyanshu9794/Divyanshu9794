@@ -61,6 +61,10 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 
 
 
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/divyanshu_sing?v=1)
+
+
+
 <!--
 **Divyanshu9794/Divyanshu9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
