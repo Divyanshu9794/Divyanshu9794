@@ -40,7 +40,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
   <a href="https://x.com/divyans77473552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-
+<!--
 
 ### Holopin Badges
 [![An image of @sdivyanshu352's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdivyanshu352)](https://holopin.io/@sdivyanshu352)
