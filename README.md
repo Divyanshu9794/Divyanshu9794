@@ -41,7 +41,7 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 </p>
 
 
-
+[![An image of @sdivyanshu352's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdivyanshu352)](https://holopin.io/@sdivyanshu352)
 
 
 
