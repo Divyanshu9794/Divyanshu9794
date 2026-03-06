@@ -12,7 +12,6 @@ Portfolio : **https://divyanshu-singh.netlify.app/**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Divyanshu9794" alt="Divyanshu9794" /></a> </p>
 
 
 
